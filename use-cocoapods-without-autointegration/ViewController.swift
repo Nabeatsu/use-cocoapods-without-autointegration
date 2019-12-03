@@ -7,6 +7,15 @@
 //
 
 import UIKit
+import FirebaseAnalytics
+import FirebaseRemoteConfig
+import RealmSwift
+import PromiseKit
+import Fabric
+import Reachability
+import DeallocationChecker
+
+
 
 class ViewController: UIViewController {
 
